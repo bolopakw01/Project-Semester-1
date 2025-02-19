@@ -1,5 +1,5 @@
 <h2>FINAL PROJECT 
-PROGRAM C++ <br> “DATA SENSUS PENDUDUK” <br> 
+PROGRAM C++ “DATA SENSUS PENDUDUK” <br> 
 ALGORITMA STRUKTUR DATA </h2>
 
 <p>Pembuatan aplikasi data sensus penduduk dapat disimpulkan sebagai langkah 
