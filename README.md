@@ -2,6 +2,8 @@
 PROGRAM C++ “DATA SENSUS PENDUDUK” <br> 
 ALGORITMA STRUKTUR DATA </h2>
 
+<hr>
+
 <p>Pembuatan aplikasi data sensus penduduk dapat disimpulkan sebagai langkah 
 inovatif untuk meningkatkan efisiensi dan akurasi proses pengumpulan serta 
 manajemen data penduduk. Aplikasi ini tidak hanya mempercepat proses sensus tetapi 
@@ -38,5 +40,8 @@ waktu tertentu di suatu negara atau wilayah tertentu.</p>
     <td style="text-align: right;">23.02.1037</td>
   </tr>
 </table>
-
 </div>
+
+<hr>
+
+<h2 align="center">MANAJEMEN INFORMATIKA - FAKULTAS ILMU KOMPUTER <br> UNIVERSITAS AMIKOM YOGYAKARTA <br> 2023/2024 </h2>
