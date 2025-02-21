@@ -44,4 +44,4 @@ waktu tertentu di suatu negara atau wilayah tertentu.</p>
 
 <hr>
 
-<h2 align="center">MANAJEMEN INFORMATIKA <br> FAKULTAS ILMU KOMPUTER <br> UNIVERSITAS AMIKOM YOGYAKARTA <br> 2023/2024 </h2>
+<h2 align="center">MANAJEMEN INFORMATIKA - FAKULTAS ILMU KOMPUTER <br> UNIVERSITAS AMIKOM YOGYAKARTA <br> 2023/2024 </h2>
